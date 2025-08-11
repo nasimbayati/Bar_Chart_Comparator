@@ -1,4 +1,4 @@
-# bar-chart-comparator
+# Bar_Chart_Comparator
 
 A small CLI toolkit to create side-by-side bar charts and difference charts from one or two CSV files—clean, generic, and portfolio-ready. No course text or proprietary files.
 
